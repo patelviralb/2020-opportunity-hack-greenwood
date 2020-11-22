@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/2020-opportunity-hack-greenwood/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/2020-opportunity-hack-greenwood/static/js/main.81a2c78d.chunk.js",
-    "main.js.map": "/2020-opportunity-hack-greenwood/static/js/main.81a2c78d.chunk.js.map",
-    "runtime-main.js": "/2020-opportunity-hack-greenwood/static/js/runtime-main.59e01541.js",
-    "runtime-main.js.map": "/2020-opportunity-hack-greenwood/static/js/runtime-main.59e01541.js.map",
+    "main.js": "/2020-opportunity-hack-greenwood/static/js/main.a32fbefc.chunk.js",
+    "main.js.map": "/2020-opportunity-hack-greenwood/static/js/main.a32fbefc.chunk.js.map",
+    "runtime-main.js": "/2020-opportunity-hack-greenwood/static/js/runtime-main.4290abda.js",
+    "runtime-main.js.map": "/2020-opportunity-hack-greenwood/static/js/runtime-main.4290abda.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/2020-opportunity-hack-greenwood/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.96f30c5a.chunk.js": "/2020-opportunity-hack-greenwood/static/js/2.96f30c5a.chunk.js",
-    "static/js/2.96f30c5a.chunk.js.map": "/2020-opportunity-hack-greenwood/static/js/2.96f30c5a.chunk.js.map",
-    "static/js/3.b82be2df.chunk.js": "/2020-opportunity-hack-greenwood/static/js/3.b82be2df.chunk.js",
-    "static/js/3.b82be2df.chunk.js.map": "/2020-opportunity-hack-greenwood/static/js/3.b82be2df.chunk.js.map",
+    "static/js/2.01c3047c.chunk.js": "/2020-opportunity-hack-greenwood/static/js/2.01c3047c.chunk.js",
+    "static/js/2.01c3047c.chunk.js.map": "/2020-opportunity-hack-greenwood/static/js/2.01c3047c.chunk.js.map",
+    "static/js/3.d78f826e.chunk.js": "/2020-opportunity-hack-greenwood/static/js/3.d78f826e.chunk.js",
+    "static/js/3.d78f826e.chunk.js.map": "/2020-opportunity-hack-greenwood/static/js/3.d78f826e.chunk.js.map",
     "index.html": "/2020-opportunity-hack-greenwood/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/2020-opportunity-hack-greenwood/static/css/2.20aa2d7b.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/2020-opportunity-hack-greenwood/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.96f30c5a.chunk.js.LICENSE.txt": "/2020-opportunity-hack-greenwood/static/js/2.96f30c5a.chunk.js.LICENSE.txt",
+    "static/js/2.01c3047c.chunk.js.LICENSE.txt": "/2020-opportunity-hack-greenwood/static/js/2.01c3047c.chunk.js.LICENSE.txt",
     "static/media/placeholder.ad4acef0.jpg": "/2020-opportunity-hack-greenwood/static/media/placeholder.ad4acef0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.59e01541.js",
+    "static/js/runtime-main.4290abda.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.96f30c5a.chunk.js",
+    "static/js/2.01c3047c.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.81a2c78d.chunk.js"
+    "static/js/main.a32fbefc.chunk.js"
   ]
 }
